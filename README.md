@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arooj Imtiaz
+- 👀 I’m interested in Data Analysis Excel, Power BI, Python, SQL
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate on Different Projects and Portfolios
+- 📫 How to reach me - Email me at AroojKhan001@yahoo.com
